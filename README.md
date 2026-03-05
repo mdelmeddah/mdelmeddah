@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m a front-end developer and Graphics designer { `<code/>`, `<logos/>`, `<brands/>` }
+🌱 I’m a **`Graphic Designer`** & **`Front-end Developer`** specializing in crafting bespoke websites and blogs for companies and individuals, with a core focus on design precision and seamless performance { `<code/>`, `<logos/>`, `<brands/>`, `<dev/>`, `<web/>`, `<ui-ux/>`, `<pixel-perfect/>`, `<responsive/>`, `<clean-code/>`, `<layout/>`, `<components/>`, `<interfaces/>` }
 
 👨‍💻 All of my projects are available at  https://github.com/mdelmeddah?tab=repositories
 
